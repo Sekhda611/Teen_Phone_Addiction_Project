@@ -1,5 +1,5 @@
 # Teen_Phone_Addiction_Project
-                                  <img width="469" height="307" alt="image" src="https://github.com/user-attachments/assets/1e473792-9a37-4296-a36f-340a2b53bcde" />
+<img width="469" height="307" alt="image" src="https://github.com/user-attachments/assets/1e473792-9a37-4296-a36f-340a2b53bcde" />
 
 This project looks at how teenagers use their phones and how it affects their well-being. Today, phones are part of everyday life, and teens spend a lot of time on them for things like social media, gaming, studying, and staying in touch with friends and family. While phones can be helpful, too much use may harm academic performance, mental health, and overall balance in life.
 
