@@ -11,3 +11,5 @@ The project analyzes teen phone usage data to find patterns between hours of use
 
 The goal is to better understand how phone use impacts teens both in school and emotionally. By analyzing the relationships between phone use and key outcomes, I aim to identify which behaviors are most strongly linked to higher addiction risk. I want to explore how excessive phone usage affects academic performance, sleep quality, and mental health.
 
+The CSV file for the dataset: [link ](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/blob/main/teen_phone_addiction_dataset.csv)
+The JSON file for the dataset: [link](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/blob/main/teen_phone_addiction_dataset.json)
