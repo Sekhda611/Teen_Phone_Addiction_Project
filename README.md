@@ -2,7 +2,7 @@
 <img width="469" height="307" alt="image" src="https://github.com/user-attachments/assets/1e473792-9a37-4296-a36f-340a2b53bcde" />
 
 
-Teen Smartphone Usage and Addiction Impact Dataset [https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction]
+Teen Smartphone Usage and Addiction Impact Dataset https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction
 The dataset I selected contains detailed information about teenagers’ phone usage, including time spent on different activities (social media, gaming, education), daily usage hours, sleep patterns, academic performance, and mental health indicators such as anxiety, depression, and self-esteem. It also includes demographic details like age, gender, and school grade, along with lifestyle factors such as exercise hours, family communication, and parental control.
 
 This project looks at how teenagers use their phones and how it affects their well-being. Today, phones are part of everyday life, and teens spend a lot of time on them for things like social media, gaming, studying, and staying in touch with friends and family. While phones can be helpful, too much use may harm academic performance, mental health, and overall balance in life. 
