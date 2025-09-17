@@ -14,7 +14,7 @@ The goal is to better understand how phone use impacts teens both in school and 
 The CSV file for the dataset: [link ](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/blob/main/teen_phone_addiction_dataset.csv)
 
 
-The JSON file for the dataset: [link](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/blob/main/teen_phone_addiction_dataset.json)
+The JSON file for the dataset: [link](https://raw.githubusercontent.com/Sekhda611/Teen_Phone_Addiction_Project/refs/heads/main/teen_phone_addiction_dataset.json)
 
 
 [link to R Markdown Analysis](https://rpubs.com/sonal_621/Assignment3)
