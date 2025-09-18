@@ -20,4 +20,4 @@ The JSON file for the dataset: [link](https://raw.githubusercontent.com/Sekhda61
 [link to R Markdown Analysis](https://rpubs.com/sonal_621/Assignment3)
 
 
-[RMarkdown](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/blob/main/RMarkdownTeen_Phone_addiction_Project.html)
+[RMarkdown](https//RMarkdownTeen_Phone_addiction_Project.html)
