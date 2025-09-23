@@ -17,7 +17,5 @@ The CSV file for the dataset: [link ](https://github.com/Sekhda611/Teen_Phone_Ad
 The JSON file for the dataset: [link](https://raw.githubusercontent.com/Sekhda611/Teen_Phone_Addiction_Project/refs/heads/main/teen_phone_addiction_dataset.json)
 
 
-[link to R Markdown Analysis](https://rpubs.com/sonal_621/Assignment3)
 
-
-[RMarkdown](RMarkdownTeen_Phone_addiction_Project.html)
+[Link to R Markdown Analysis](RMarkdownTeen_Phone_addiction_Project.html)
