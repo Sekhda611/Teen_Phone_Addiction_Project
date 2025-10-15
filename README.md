@@ -23,4 +23,5 @@ The goal is to better understand how phone use impacts teens both in school and 
 
 ## D3 Javascript Visualization
 [Folder Link](https://github.com/Sekhda611/Teen_Phone_Addiction_Project/tree/main/teen-phone-addiction-visualization)
+
 [Codepen Link](https://codepen.io/Sonachu/pen/LEGOYYN)
